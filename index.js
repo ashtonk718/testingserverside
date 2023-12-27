@@ -27,3 +27,7 @@ function updateUI() {
     document.getElementById("employees").innerText = employees;
     document.getElementById("products").innerText = products;
 }
+
+require("dotenv").config();
+
+console.log(process.env.WEATHER_API_KEY)
