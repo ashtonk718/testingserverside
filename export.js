@@ -1,4 +1,3 @@
-// file2.js
 
 // Import the variable from file1.js
 import { myVariable } from './import.js';
