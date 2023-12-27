@@ -1,0 +1,17 @@
+# Ignore build artifacts
+build/
+
+# Ignore all .log files
+*.log
+
+*.js
+
+
+# Ignore a specific file
+secret-config.json
+
+# Ignore all .DS_Store files (macOS)
+.DS_Store
+
+# Ignore all files in a specific directory
+node_modules/
