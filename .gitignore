@@ -4,7 +4,6 @@ build/
 # Ignore all .log files
 *.log
 
-*.js
 
 
 # Ignore a specific file
